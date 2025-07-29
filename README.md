@@ -1,6 +1,6 @@
 # Word Frequency Dictionary for Sentiment Analysis
 
-This repository is a record of a practice lab work from the "Natural Language Processing with Classification and Vector Spaces" course. My core objective was to understand how individual words contribute to the overall sentiment of a tweet (positive or negative) by tracking their occurrences.
+This repository is a record of a practice lab work from the **"Natural Language Processing with Classification and Vector Spaces"** (DeepLearning.AI) course. My core objective was to understand how individual words contribute to the overall sentiment of a tweet (positive or negative) by tracking their occurrences.
 
 ---
 I applied the following NLP techniques:
